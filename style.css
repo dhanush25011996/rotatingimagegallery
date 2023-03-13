@@ -6,7 +6,7 @@ body {
     text-align: center;
     height: 100vh;
     justify-content: center;
-    background-color: black;
+    background:linear-gradient(to left,white,blue,green);
     overflow: hidden;
   }
   
